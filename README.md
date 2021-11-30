@@ -22,3 +22,5 @@ optional arguments:
   -h, --help                                  show this help message and exit
   -f {w2v,tf,tf-idf}, --feed {w2v,tf,tf-idf}  use word2vec, tf or tf-idf to feed neural network
 ```
+
+To run the program, you have to download GoogleNews-vectors-negative300.bin.gz from https://code.google.com/archive/p/word2vec/ and put it into models directory.
