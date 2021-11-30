@@ -1,0 +1,18 @@
+# pre-trained word2vec
+GoogleNews-vectors-negative300.bin.gz
+
+# checkpoint
+# *.hdf5
+
+# pycache
+__pycache__/
+
+# latex trash files
+*.log
+*.aux
+*.out
+*.toc
+*.synctex.gz
+
+# README.pdf
+README.pdf
