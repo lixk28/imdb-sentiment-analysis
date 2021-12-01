@@ -15,7 +15,7 @@ Dataset split:
 At last, the three classification methods get about 87% ~ 88% accuracy with 0.3 loss approximately.
 
 Usage:
-```shell
+```
 usage: python3 main.py [-h] -f {w2v,tf,tf-idf}
 
 optional arguments:
