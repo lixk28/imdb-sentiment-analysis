@@ -1,4 +1,4 @@
-Midterm project for DCS301: Natural Language Processing taught by Prof. Quan (Xiaojun Quan) in SYSU.
+Midterm project for DCS301: Natural Language Processing taught by Prof. Quan (Xiaojun Quan) at Sun Yat-sen University.
 
 Binary sentiment classification based on IMDB Dataset of 50k movie reviews.
 
